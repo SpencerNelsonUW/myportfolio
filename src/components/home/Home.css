@@ -1,0 +1,14 @@
+.homeBody {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    height: calc(100vh + 20px);;
+}
+
+.hi{
+    color:blue;
+    padding:50px;
+}
