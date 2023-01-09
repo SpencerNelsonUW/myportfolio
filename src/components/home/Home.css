@@ -5,10 +5,42 @@
     justify-content: center;
     text-align: center;
     align-items: center;
-    height: calc(100vh + 20px);;
+    height: calc(100vh + 5px);;
 }
 
+
 .hi{
-    color:blue;
-    padding:50px;
+    color:#34F5C5;
+    padding:10px;
+    font-size:75px;
+    font-family: monospace, verdana, arial;
+}
+
+.avatar{
+    max-width: 20%;
+    max-height: 20%;
+    border-left: 50px solid transparent;
+    border-right: 50px solid transparent;
+    position: relative;
+}
+
+.downArrow{
+    color:white;
+    width:50px;
+    height:50px;
+    margin-top:50px;
+}
+
+.downArrow:hover{
+    color:#34F5C5;
+    width:50px;
+    height:50px;
+    margin-top:50px;
+}
+
+.downArrow:active{
+    color:#21D0B2;
+    width:50px;
+    height:50px;
+    margin-top:50px;
 }
