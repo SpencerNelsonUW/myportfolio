@@ -1,0 +1,32 @@
+.box{
+    display:flex;
+    flex-direction:column;
+    border-style:solid;
+    background-color:#282c34;
+    margin-bottom:20px
+}
+
+.box:hover{
+    display:flex;
+    flex-direction:column;
+    border-style:solid;
+    background-color:#3a3f4b;
+    margin-bottom:20px
+}
+
+.projectImage{
+    max-width: 250px;
+    max-height: 250px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 85%;
+}
+
+h4{
+    padding:20px
+}
+
+p{
+    padding:20px;
+}

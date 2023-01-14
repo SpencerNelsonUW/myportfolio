@@ -4,6 +4,7 @@ import { NavBar } from './components/navbar/Navbar.js'
 import { Home } from './components/home/Home.js'
 import { Skills } from './components/skills/Skills.js'
 import { About } from './components/about/About.js'
+import { Projects } from './components/projects/Projects.js'
 
 function App() {
     return (
@@ -20,6 +21,7 @@ function App() {
                     <Skills/>
                     <About/>
                     </div>
+                <Projects/>
                 </div>
 
             </div>
