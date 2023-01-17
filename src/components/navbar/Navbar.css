@@ -5,3 +5,9 @@ background-color:#ffffff
 .active{
 background-color:blue
 }
+
+.nav {
+    border-style:solid;
+    border-top:solid;
+    border-color:#212529;
+}

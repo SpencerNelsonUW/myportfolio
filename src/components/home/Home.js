@@ -17,7 +17,7 @@ export const Home = () => {
 
 
     return(
-        <div className='homeWrapper'>
+        <div className='homeWrapper' id='home'>
             <div className='homeBody'>
                 <Particles options={particlesOptions} init={particlesInit}/>
                 <h1 className="hi">Hi there,</h1>

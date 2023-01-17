@@ -3,7 +3,7 @@ import './Skills.css'
 
 export const Skills = () => {
     return(
-        <div>
+        <div id='skills'>
             <h1>Skills</h1>
             <div className="Skill">
             <ProgressBar variant="success" now={80} label='HTML' />

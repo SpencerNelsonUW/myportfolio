@@ -1,0 +1,15 @@
+.actions {
+    border-top:solid;
+    background-color:#282c34;
+}
+
+.actionsStyle {
+    display:flex;
+    flex-wrap:wrap;
+    justify-content:space-evenly;
+}
+
+h3 {
+    padding-top:25px;
+    padding-bottop:10px;
+}
