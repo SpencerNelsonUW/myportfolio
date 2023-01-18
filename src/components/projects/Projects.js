@@ -2,6 +2,8 @@ import React from 'react'
 import { Element } from 'react-scroll'
 import {ProjectCard} from '../ProjectCard/ProjectCard.js'
 import Avatar from '../../images/Avatar.jpg'
+import Tiletopia from '../../images/Tiletopia.PNG'
+import HomewardBound from '../../images/HomewardBound.jpg'
 import './Projects.css'
 
 
@@ -11,12 +13,12 @@ export const Projects = () => {
         {
             title:'Homeward Bound',
             description:'Help animals find their way home',
-            imgUrl:Avatar,
+            imgUrl:HomewardBound,
         },
         {
             title:'TileTopia',
             description:'Expand your kingdom in a fun tile clicker',
-            imgUrl:Avatar,
+            imgUrl:Tiletopia,
         },
         {
             title:'Homeward Bound',

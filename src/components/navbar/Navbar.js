@@ -11,7 +11,7 @@ export const NavBar = () => {
     }
 
     return ( 
-    <Nav fill variant="tabs" defaultActiveKey="/home" className="nav">
+    <Nav fill variant="tabs" defaultActiveKey="/home" className="nav" id="navbar">
       <Nav.Item className={activeLink === 'home' ? 'active navbar-link' : 'navbar-link'}>
         <Nav.Link onClick={() => onUpdateActiveLink('home')} href="#home">Home</Nav.Link>
       </Nav.Item>
