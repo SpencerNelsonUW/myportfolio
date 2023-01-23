@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/myportfolio/static/css/main.2795f1d7.css",
+    "main.js": "/myportfolio/static/js/main.f410cd9a.js",
+    "static/media/Avatar.jpg": "/myportfolio/static/media/Avatar.1b4762eb1aa421b85152.jpg",
+    "static/media/SpencerNelson.pdf": "/myportfolio/static/media/SpencerNelson.5f5f19118613b44cc0dd.pdf",
+    "static/media/dog-solid.svg": "/myportfolio/static/media/dog-solid.44e27dab256d2f07d7f503c32fb20dcf.svg",
+    "index.html": "/myportfolio/index.html",
+    "static/media/gamepad-solid.svg": "/myportfolio/static/media/gamepad-solid.3b5ad56b45ac679d2197305bb2cd8c84.svg",
+    "main.2795f1d7.css.map": "/myportfolio/static/css/main.2795f1d7.css.map",
+    "main.f410cd9a.js.map": "/myportfolio/static/js/main.f410cd9a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2795f1d7.css",
+    "static/js/main.f410cd9a.js"
+  ]
+}
