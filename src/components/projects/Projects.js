@@ -1,9 +1,10 @@
 import React from 'react'
 import { Element } from 'react-scroll'
 import {ProjectCard} from '../ProjectCard/ProjectCard.js'
-import Avatar from '../../images/Avatar.jpg'
-import Tiletopia from '../../images/Tiletopia.PNG'
-import HomewardBound from '../../images/HomewardBound.jpg'
+import Tiletopia from '../../images/gamepad-solid.svg'
+import HomewardBound from '../../images/dog-solid.svg'
+
+
 import './Projects.css'
 
 
@@ -11,29 +12,16 @@ export const Projects = () => {
 
     const allProjects = [
         {
+            link:'https://github.com/bburton5/homeward-bound',
             title:'Homeward Bound',
             description:'Help animals find their way home',
             imgUrl:HomewardBound,
         },
         {
+            link:'https://github.com/Tiletopia/tiletopia',
             title:'TileTopia',
             description:'Expand your kingdom in a fun tile clicker',
             imgUrl:Tiletopia,
-        },
-        {
-            title:'Homeward Bound',
-            description:'help animals find their way home',
-            imgUrl: Avatar,
-        },
-        {
-            title:'Homeward Bound',
-            description:'help animals find their way home',
-            imgUrl: Avatar,
-        },
-        {
-            title:'Homeward Bound',
-            description:'help animals find their way home',
-            imgUrl: Avatar,
         },
     ]
 

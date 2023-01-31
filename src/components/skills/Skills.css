@@ -4,12 +4,26 @@ h1 {
     padding-bottom:10px;
 }
 
+h4 {
+    margin-top:25px;
+    color:#FFFFFF;
+}
+
 p {
     color:#ffffff
 }
 
 .Skill {
+    margin: auto;
+    width: 50%;
     padding-top:10px;
     width:200px;
     height:25px;
 }
+
+.skills { 
+    display:flex;
+    flex-wrap:wrap;
+    justify-content:center
+}
+
