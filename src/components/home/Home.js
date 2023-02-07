@@ -5,7 +5,7 @@ import particlesOptions from "../../config/particles.json";
 import Avatar from "../../images/Avatar.jpg"
 import Image from 'react-bootstrap/Image';
 import './Home.css'
-import { BsArrowDownShort } from 'react-icons/bs'
+// import { BsArrowDownShort } from 'react-icons/bs'
 
 
 
