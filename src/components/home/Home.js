@@ -23,7 +23,7 @@ export const Home = () => {
                 <h1 className="hi">Hi there,</h1>
                 <Image className="img-fluid rounded-circle avatar" src={Avatar}></Image>
                 <h1 className="hi">my name is Spencer</h1>
-                <BsArrowDownShort href="#navbar" className="downArrow"/>
+                {/* <BsArrowDownShort href="#navbar" className="downArrow"/> */}
             </div>
         </div>
     )
