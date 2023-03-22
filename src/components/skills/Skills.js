@@ -25,12 +25,7 @@ export const Skills = () => {
             </div>
             <div className="Skill">
             <ProgressBar variant="success" now={45} label='MySQL' />
-            </div>
-            <h4>Education</h4>
-            <p>University of Washington Coding Bootcamp / 2022 <br></br>
-            Donghua University China / International Business & Language Program / 2014 - 2015<br></br>
-            University of Washington Coding Bootcamp / 2022</p>
-            
+            </div>            
         </div>
     )
 }

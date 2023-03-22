@@ -1,6 +1,6 @@
 {
   "background": {
-    "color": "#282c34"
+    "color": "#00293B"
   },
   "interactivity": {
     "events": {
@@ -26,7 +26,7 @@
   },
   "particles": {
     "color": {
-      "value": "#1DCDFE"
+      "value": "#F8B300"
     },
     "links": {
       "color": "#ffffff",
@@ -52,10 +52,10 @@
       "density": {
         "enable": true
       },
-      "value": 15
+      "value": 25
     },
     "opacity": {
-      "value": 0.5
+      "value": 0.75
     },
     "shape": {
       "type": "circle"

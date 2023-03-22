@@ -4,11 +4,15 @@ export const About = () => {
     return(
         <div class='aboutMain' id='about'>
             <h1>About</h1>
-            <h3>Spencer Nelson</h3>
             <h4>Summary </h4>
             <p>Full Stack Web Developer with a background in Business, Real Estate and a life-long dedication to learning. 
             Effective at combining creativity and problem solving to develop user-friendly applications. Known for strong work ethic and attention to detail.
             </p>
+
+            <h4>Education</h4>
+            <p>University of Washington Coding Bootcamp / 2022 <br></br>
+            Donghua University China / International Business & Language Program / 2014 - 2015<br></br>
+           </p>
 
             <h4>Work Experience</h4>
             <p>Title Assistant (2018-2019), Title Examiner (2019-2020), Production Coordinator (2020-2022)

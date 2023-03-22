@@ -17,8 +17,8 @@
 }
 
 .avatar{
-    max-width: 75%;
-    max-height: 75%;
+    max-width: 60%;
+    max-height: 60%;
     border-left: 50px solid transparent;
     border-right: 50px solid transparent;
     position: relative;
