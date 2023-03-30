@@ -8,7 +8,7 @@ export const ProjectCard = ({ link, title, description, imgUrl }) => {
             <img className='projectImage' src={imgUrl} alt='projectPhoto'/> 
             <p>{description}</p>
             <a href={link}>
-            <Button>Go To</Button>
+            <Button className='button'>Go To</Button>
             </a>
         </div>
     )

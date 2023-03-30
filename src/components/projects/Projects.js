@@ -3,7 +3,7 @@ import { Element } from 'react-scroll'
 import {ProjectCard} from '../ProjectCard/ProjectCard.js'
 import Tiletopia from '../../images/gamepad-solid.svg'
 import HomewardBound from '../../images/dog-solid.svg'
-
+import Econletics from '../../images/econletics.png'
 
 import './Projects.css'
 
@@ -23,6 +23,12 @@ export const Projects = () => {
             description:'Expand your kingdom in a fun tile clicker',
             imgUrl:Tiletopia,
         },
+        {
+            link:'https://econletics.com/',
+            title:'Econletics',
+            description:'Advance your financial knowledge',
+            imgUrl:Econletics,
+        }
     ]
 
     return(
