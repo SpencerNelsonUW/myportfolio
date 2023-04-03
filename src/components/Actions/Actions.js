@@ -16,19 +16,19 @@ export const Actions = () => {
                 <div className="linkedIn">
                     <p>Check out my linkedIn</p>
                     <a href="https://www.linkedin.com/in/spencer-nelson-858533115/">
-                    <Button>LinkedIn</Button>
+                    <Button className='button'>LinkedIn</Button>
                     </a>
                 </div>
                 <div>
                     <p>Email me</p>
                     <a href="mailto:Spencernelsonn@gmail.com">
-                        <Button>Email</Button>
+                        <Button className='button'>Email</Button>
                     </a>
                 </div>
                 <div className='resume'>
                     <p>Download my resume</p>
                     <a href={Resume} download="SpencerNelsonResume">
-                    <Button>Download</Button>
+                    <Button className='button'>Download</Button>
                     </a>
                 </div>
             </div>

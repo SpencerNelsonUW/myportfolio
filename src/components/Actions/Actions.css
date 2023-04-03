@@ -13,3 +13,13 @@ h3 {
     padding-top:25px;
     padding-bottop:10px;
 }
+
+.button{
+    margin-bottom:10px;
+    background-color: #006080;
+    border-color:#006080;
+}
+
+.button:hover{
+    background-color:#00AAB7;
+}
