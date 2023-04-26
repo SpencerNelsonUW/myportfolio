@@ -4,6 +4,7 @@ import {ProjectCard} from '../ProjectCard/ProjectCard.js'
 import Tiletopia from '../../images/gamepad-solid.svg'
 import HomewardBound from '../../images/dog-solid.svg'
 import Econletics from '../../images/econletics.png'
+import Rustiverse from '../../images/RV.png'
 
 import './Projects.css'
 
@@ -11,6 +12,12 @@ import './Projects.css'
 export const Projects = () => {
 
     const allProjects = [
+        {
+            link:'https://econletics.com/',
+            title:'Econletics',
+            description:'Advance your financial knowledge',
+            imgUrl:Econletics,
+        },
         {
             link:'https://github.com/bburton5/homeward-bound',
             title:'Homeward Bound',
@@ -24,10 +31,10 @@ export const Projects = () => {
             imgUrl:Tiletopia,
         },
         {
-            link:'https://econletics.com/',
-            title:'Econletics',
-            description:'Advance your financial knowledge',
-            imgUrl:Econletics,
+            link:'https://discord.gg/F6NDXEZeXN',
+            title:'Rustiverse',
+            description:'Explore Rust on the best Server',
+            imgUrl:Rustiverse,  
         }
     ]
 

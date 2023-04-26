@@ -25,7 +25,13 @@ export const Skills = () => {
             </div>
             <div className="Skill">
             <ProgressBar variant="success" now={45} label='MySQL' />
-            </div>            
+            </div>  
+            <div className="Skill">
+            <ProgressBar variant="success" now={50} label='Shopify' />
+            </div> 
+            <div className="Skill">
+            <ProgressBar variant="success" now={55} label='Wordpress' />
+            </div>
         </div>
     )
 }
